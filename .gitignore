@@ -4,6 +4,8 @@ __pycache__/
 *$py.class
 images
 new_images
+service_account.json
+client_secret_854962009451-5bl4c5o29hfq48rk1433p79u99u7k35m.apps.googleusercontent.com.json
 # C extensions
 *.so
 
